@@ -1,8 +1,5 @@
 # Cut_The_Rope_Replic
 
-![GitHub license](https://img.shields.io/github/license/oussamabonnor1/Cut_The_Rope_Replica.svg)
-![Jetlight studio](https://img.shields.io/badge/Made%20by-Jetlight%20studio-blue.svg?color=082544)
-
 A "Cut the Rope" game replica, 2D fun mobile game about helping the frog get the candy.
 
 ## Screenshot:
